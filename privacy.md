@@ -91,15 +91,14 @@ To exercise any of these rights, email: annabella.klimpertmitauge@gmail.com
 
 ---
 
-## 7. Right to lodge a complaint
+## 7. Questions or concerns
 
-If you believe we are not handling your data correctly, you have the right to lodge a complaint with a supervisory authority. In Germany, the relevant authority for Berlin is:
+If you have any questions or concerns about how your data is handled, please email us first at annabella.klimpertmitauge@gmail.com — we'll do our best to resolve it directly.
 
-**Berliner Beauftragte für Datenschutz und Informationsfreiheit**
-www.datenschutz-berlin.de
+You also have the legal right to contact a data protection supervisory authority. In Germany, the relevant authority for Berlin is the Berliner Beauftragte für Datenschutz und Informationsfreiheit (datenschutz-berlin.de).
 
 ---
 
 ## 8. Changes to this policy
 
-If we make material changes to this policy, we will notify active users via the bot before the changes take effect.
+We will update this page if anything changes. The date at the top always reflects the current version.
