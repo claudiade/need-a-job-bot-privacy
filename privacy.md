@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy — need-a-job-bot
 
-**Last updated: 18 June 2026**
+**Last updated: 18 June 2026 (2)**
 
 ---
 
@@ -26,6 +26,7 @@ need-a-job-bot collects only what is necessary to deliver the service. No names,
 |---|---|
 | Telegram user ID | To identify your account and deliver messages to you |
 | City | To search for jobs in your location |
+| Geographic coordinates (latitude / longitude) | To calculate distances for radius-based job search. Derived from your city name or from a location you share. Not used for any other purpose. |
 | Search radius (km) | To determine the geographic scope of your job search |
 | Remote preference | To include or exclude remote and hybrid jobs |
 | Job preferences and search terms | Generated from your description to run job searches |
@@ -43,7 +44,6 @@ need-a-job-bot collects only what is necessary to deliver the service. No names,
 - Your name
 - Your email address
 - Your CV or any uploaded documents
-- Your location beyond the city you provide
 - Any data from your Telegram messages other than what you explicitly send as part of setup or commands
 
 ---
