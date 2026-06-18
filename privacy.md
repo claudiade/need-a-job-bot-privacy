@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy — need-a-job-bot
 
-**Last updated: 17 June 2026**
+**Last updated: 18 June 2026**
 
 ---
 
@@ -16,8 +16,6 @@ title: Privacy Policy
 Claudia Decher
 Berlin, Germany
 annabella.klimpertmitauge@gmail.com
-
-For any questions about how your data is handled, or to exercise your rights, email the address above.
 
 ---
 
@@ -77,25 +75,21 @@ When you run /delete, all your data is removed from our database immediately. Yo
 
 ## 6. Your rights
 
-Under GDPR / DSGVO you have the following rights:
+Most data management is self-service:
 
-- **Access (Art. 15):** You can request a copy of the data we hold about you.
-- **Rectification (Art. 16):** You can update your city, radius, remote preference, and search terms at any time via /settings.
-- **Erasure (Art. 17):** Run /delete in the bot at any time. All data is deleted immediately.
-- **Restriction (Art. 18):** You can request that we restrict processing of your data.
-- **Portability (Art. 20):** You can request your data in a machine-readable format.
-- **Objection (Art. 21):** You can object to processing based on legitimate interests.
-- **Withdraw consent:** You can withdraw consent at any time by deleting your account via /delete. This does not affect the lawfulness of processing before withdrawal.
+- **Update your preferences:** Use /settings to change your city, radius, remote preference, or search terms at any time.
+- **Delete everything:** Run /delete — all your data is removed immediately and permanently.
+- **Withdraw consent:** Run /delete at any time. This does not affect anything that happened before deletion.
 
-To exercise any of these rights, email: annabella.klimpertmitauge@gmail.com
+You also have the right to request a copy of the data we hold about you. To do that, email us at the address in §1.
 
 ---
 
 ## 7. Questions or concerns
 
-If you have any questions or concerns about how your data is handled, please email us first at annabella.klimpertmitauge@gmail.com — we'll do our best to resolve it directly.
+If you have questions about how your data is handled, email us at the address in §1.
 
-You also have the legal right to contact a data protection supervisory authority. In Germany, the relevant authority for Berlin is the Berliner Beauftragte für Datenschutz und Informationsfreiheit (datenschutz-berlin.de).
+You also have the right to contact a data protection supervisory authority. In Germany, the relevant authority for Berlin is the Berliner Beauftragte für Datenschutz und Informationsfreiheit (datenschutz-berlin.de).
 
 ---
 
