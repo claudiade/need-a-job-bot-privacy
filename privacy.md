@@ -14,7 +14,6 @@ title: Privacy Policy
 **Data controller under GDPR / DSGVO:**
 
 Claudia Decher
-Berlin, Germany
 annabella.klimpertmitauge@gmail.com
 
 ---
@@ -89,7 +88,7 @@ You also have the right to request a copy of the data we hold about you. To do t
 
 If you have questions about how your data is handled, email us at the address in §1.
 
-You also have the right to contact a data protection supervisory authority. In Germany, the relevant authority for Berlin is the Berliner Beauftragte für Datenschutz und Informationsfreiheit (datenschutz-berlin.de).
+You also have the right to contact the competent data protection supervisory authority in your country.
 
 ---
 
