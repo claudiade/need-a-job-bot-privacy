@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy — need-a-job-bot
 
-**Last updated: 18 June 2026 (2)**
+**Last updated: 3 September 2026**
 
 ---
 
@@ -14,7 +14,7 @@ title: Privacy Policy
 **Data controller under GDPR / DSGVO:**
 
 Claudia Decher
-annabella.klimpertmitauge@gmail.com
+need-a-job-bot@mailbox.org
 
 ---
 
